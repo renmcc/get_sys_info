@@ -7,13 +7,6 @@
 # 
 #   DESCRIPTION: 获取当前服务器的cpu/mem等信息
 # 
-#       OPTIONS: ---
-#  REQUIREMENTS: ---
-#          BUGS: ---
-#         NOTES: ---
-#  ORGANIZATION: BlueKing
-#       CREATED: 02/03/2017 14:40
-#      REVISION:  ---
 #===============================================================================
 
 set -o nounset                              # Treat unset variables as an error
