@@ -1,6 +1,6 @@
 # get_sys_info
 获取linux系统信息
-
+```
 [root@rbtnode1 data2]# sh get_svr_info.sh 
 CPU:
 	model name:	Intel(R) Xeon(R) CPU E5-2407 0 @ 2.20GHz
@@ -23,3 +23,4 @@ OS:
 	Started Since:	2019-06-26 12:06:51
 	Module Loadable:	Yes
 	Iptables Rules:	On
+```
